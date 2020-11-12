@@ -7,7 +7,7 @@ The purpose of this project is to narrow down the variables to get a linear regr
 
 ## The Final Linear Regression Model 
 
-![results](files/images/modeltable.png)
+![results](images/modeltable.png)
 
 ### Steps taken to arrive at final model.
 
@@ -56,7 +56,7 @@ The zipcodes with the lowest prices are:
 
     
 
-![results](files/images/graph.png)
+![results](images/graph.png)
 
 
 
