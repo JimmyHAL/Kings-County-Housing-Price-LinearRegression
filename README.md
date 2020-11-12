@@ -7,7 +7,7 @@ The purpose of this project is to narrow down the variables to get a linear regr
 
 ## The Final Linear Regression Model 
 
-![results](images/modeltable.png)
+![results](images/modeltable.PNG)
 
 ### Steps taken to arrive at final model.
 
