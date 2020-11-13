@@ -19,7 +19,7 @@ The purpose of this project is to narrow down the variables to get a linear regr
 6. Create Dummy Variables for categorical data.
 7. Remove outliers from the data.
 8. Perform Model Fitting using both RFE and Stepwise Selection.
-9. Check the distribution of residuals for normality and heteroskedasticity, using qqplot and Goldfeld-Quandt test.
+9. Check the distribution of residuals for normality and heteroskedasticity, using qqplot and residual plot.
 
 The qqplot for the residuals is unsatisfactory but since I intend to use the coefficient to interpret I didn't want to transform the data.
 
