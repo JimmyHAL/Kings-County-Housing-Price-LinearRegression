@@ -62,4 +62,4 @@ The zipcodes with the lowest prices are:
 
 ### Further Improvements
 1. Group zip codes into neighbourhoods or cities to simplify the model
-2. If the model were to be used for predictions rather than inference I would transform the data so the model performs better.
+2. If the model were to be used for predictions rather than inference I would transform the data so that the model performs better.
