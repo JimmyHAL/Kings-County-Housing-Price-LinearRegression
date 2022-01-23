@@ -27,7 +27,7 @@ The qqplot for the residuals is unsatisfactory but since I intend to use the coe
 
 For the final model, I have 13 continuous and ordinal data variables and 51 categorical zip codes variables. From the coefficients, we can infer that adding 1 bathroom increase about \\$15,620 dollar to the property value. 1 squarefoot increase the price by around \\$96 dollars. Condition(Range from 1 to 5) and grade(Kings County system) have a coefficient of \\$21,190 and \\$54,540 respectively. Renovated properties are typically \\$29,650 more expensive. The non-zipcode variable that has the highest effect on price is the binary variable waterfront. On average, waterfront property sells for $172,700 more.
 
-The zipcodes with the highest prices are:
+The zipcodes with the highest housing prices:
 
     98004     City: Bellevue            Neighbourhood:  Bellevue Square / Downtown
 
